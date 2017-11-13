@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="5dp"
+    android:paddingBottom="5dp"
+    android:layout_marginTop="5dp" >
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_margin="5dp"
+        android:scaleType="centerCrop"/>
+			
+
+
+    <TextView
+        android:id="@+id/description"
+        android:layout_width="fill_parent"
+        android:layout_height="25dp"        
+        android:layout_margin="5dip"
+        android:layout_toRightOf="@+id/image"
+        android:gravity="center_vertical"
+        android:text="estamos en casa" />
+
+    <TextView
+        android:id="@+id/edad"
+        android:layout_width="fill_parent"
+        android:layout_height="20dp"
+        android:layout_alignLeft="@+id/description"
+        android:layout_below="@+id/description"
+        android:layout_margin="5dip"        
+        android:text="tengo 2 dias y 3 meses"
+        android:textColor="@color/textoEdad" />
+
+</RelativeLayout>

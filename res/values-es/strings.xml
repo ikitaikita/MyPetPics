@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyPetPics</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="pickgallery">pickgallery</string>
+    <string name="takepic">takepicy</string>
+    <string name="opengallery">opengallery</string>
+    <string name="nVotosMas">400</string>
+    <string name="about">Acerca de</string>
+    <string name="exit">Salir</string>
+    <string name="title_capture_foto">Sube una foto</string>
+    <string name="hint_foto_desc">Añade una descripcion</string>
+   
+   
+    <string name="title_List_photo">Mis Fotos</string>
+   
+    <string name="title_List_Album">Albumes</string>
+    <string name="title_Plantillas">Plantillas</string>
+ 
+   
+    <string name="imagenBaby">imagen</string>
+    <string name="INFORMACION">Info</string>
+   
+    <string name="NoPublicada">No se ha podido publicar</string>
+    <string name="Publicada">Foto subida</string>
+    <string name="ErrorCarga">Error al cargar</string>
+    <string name="cargandoFotos">Cargando Fotos</string>
+    <string name="cargandoAlbumes">Cargando Albumes</string>
+    <string name="insertarEnAlbum">Insertar Foto en Album</string>
+    
+     <string name="insertandoFoto">insertando foto en el album</string>
+    <string name="mostrarContenido">Mostrar Album</string>
+    <string name="borrarAlbum">Borrar Album</string>
+    <string name="enviarAlbum">Enviar Album</string>
+    <string name="CargaCorrecta">Cargado correctamente</string>
+    <string name="albumCreadoError">No se ha podido crear el Album</string>
+    <string name="espere">Por favor espere</string>
+    <string name="borrando">borrando Album</string>
+    <string name="borrandoFotos">borrando Fotos</string>
+    <string name="publicar">Subir foto</string>
+    <string name="crearAlbum">Crear Album</string>
+    <string name="albumCreado">Album creado correctamente</string>
+    <string name="insertarAlbum">Meter en Album</string>
+    <string name="insertarContenido">Insertar contenido</string>
+    <string name="insertarContenidoAlbum">intro content</string>
+    <string name="insertado">contenido insertado</string>
+    <string name="borrar">borrar seleccionadas</string>
+    <string name="noFotos">No hay fotos para borrar</string>
+    
+   
+    <string name="lista_vacia">Aun no has creado ningun Album</string>
+    <string name="ErrorBorrado">Error al borrar el Album</string>
+    <string name="ErrorBorradoFotos">Error al borrar las Fotos</string>
+    <string name="OkBorrado">Album borrado correctamente. Ya puedes crear un nuevo Album</string>
+    <string name="pull_to_refresh_pull_label">Desliza para refrescar...</string>
+    <string name="pull_to_refresh_release_label">Suelta para refrescar...</string>
+    <string name="pull_to_refresh_refreshing_label">Cargando...</string>
+    <string name="pull_to_refresh_tap_label">Pulse para refrescar...</string>
+    
+    <string name="introAlbum">¿Deseas introducir foto en album de fotos?</string>
+    <string name="selectAlbum">Selecciona un Album</string>
+    <string name="intro_ok">Si</string>
+    <string name="intro_cancel">No</string>
+   
+    <string name="menu_legalnotices">Legal Notices</string>
+    <string name= "desc"></string>
+    
+   
+    
+    <string name="pdf_show_local_progress_title">Mostrando PDF</string>
+    <string name="pdf_show_online_dialog_title">online</string>
+    <string name="pdf_show_online_dialog_question">question</string>
+    <string name="pdf_show_local_progress_content">content</string>
+    <string name="pdf_show_online_dialog_button_no">NO</string>
+    <string name="pdf_show_online_dialog_button_yes">YES</string>
+    
+     <string name= "tab1">inserta foto</string>
+     <string name= "tab2">lista fotos</string>
+     <string name= "tab3">borrar fotos</string>
+     <string name= "tab4">mi album</string>
+     
+    <string name= "inAlbum">se encuentra en el Album</string>
+    <string name= "notinAlbum">no está en el Album</string>
+    <string name= "incluida">se encuentra en el Album. No se puede borrar</string>
+    <string name= "hint_fecha">fecha</string>
+    <string name= "aborrar">borrar</string>
+  	<string name= "enviar">Te mando mi álbum de fotos de mi mascota</string>
+    <string name= "compartir">Compartir via...</string>
+    <string name="errcargaimg">error cargando imagen </string>
+  
+
+</resources>

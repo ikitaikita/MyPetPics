@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyPetPics</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="pickgallery">pickgallery</string>
+    <string name="takepic">takepicy</string>
+    <string name="opengallery">opengallery</string>
+    <string name="nVotosMas">400</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="title_capture_foto">Capture</string>
+    <string name="hint_foto_desc">Add description </string>
+
+    <string name="title_List_photo">Photos List</string>
+   
+     <string name="title_List_Album">Photo Albums</string>
+     <string name="title_Plantillas">Templates</string>
+    <string name="imagenBaby">image</string>
+   
+    <string name="INFORMACION">Info</string>
+   
+    <string name="NoPublicada">Unpublished costume</string>
+    <string name="Publicada">Published costume</string>
+    <string name="ErrorCarga">Loading error</string>
+    <string name="cargandoFotos">Loading Photos</string>
+    <string name="cargandoAlbumes">Loading Albums</string>
+    <string name="insertarEnAlbum">Insert Photo</string>  
+   
+    <string name="insertandoFoto">adding photo to Album</string>
+   
+    <string name="publicar">Upload Photo</string>
+    <string name="crearAlbum">Create Album</string>
+    <string name="albumCreado">Album created</string>
+    <string name="insertarAlbum">Upload Photo to Album</string>
+    <string name="mostrarContenido">Show Album</string>
+    <string name="borrarAlbum">Delete Album</string>
+    <string name="enviarAlbum">Send Album</string>
+    <string name="CargaCorrecta">Loaded correctly</string>
+    <string name="albumCreadoError">Could not create the Album</string>
+    <string name="espere">Please wait</string>
+    <string name="borrando">deleting Album</string>
+    <string name="borrandoFotos">deleting Fotos</string>
+    <string name="mostrandoPDF">Show PDF</string>
+    <string name="insertado">inserted</string>
+    <string name="borrar">delete selected photos</string>
+    <string name="noFotos">No Fotos to Show</string>
+    <string name="lista_vacia">You has not posted any albums</string>
+    <string name="ErrorBorrado">Error deleting Album</string>
+    <string name="ErrorBorradoFotos">Error deleting Fotos</string>
+    
+    <string name="OkBorrado">Album deleted. You can create a new album</string>
+    <string name="pull_to_refresh_pull_label">Pull to refresh...</string>
+    <string name="pull_to_refresh_release_label">Release to refresh...</string>
+    <string name="pull_to_refresh_refreshing_label">Loading...</string>
+    <string name="pull_to_refresh_tap_label">Tap to refresh...</string>
+    
+    <string name="introAlbum">Do you want to upload this foto to album?</string>
+    <string name="selectAlbum">Select Album</string>
+    <string name="intro_ok">Yes</string>
+    <string name="intro_cancel">No</string>
+
+    <string name="menu_legalnotices">Legal Notices</string>
+    <string name= "desc"></string>
+    
+
+    
+    <string name="pdf_show_local_progress_title">showing PDF</string>
+    <string name="pdf_show_online_dialog_title">online</string>
+    <string name="pdf_show_online_dialog_question">question</string>
+    <string name="pdf_show_local_progress_content">content</string>
+    <string name="pdf_show_online_dialog_button_no">NO</string>
+    <string name="pdf_show_online_dialog_button_yes">YES</string>
+    
+    <string name= "tab1">insert photo</string>
+    <string name= "tab2">photos list</string>
+    <string name= "tab3">delete photos</string>
+    <string name= "tab4">my album</string>
+    
+    <string name= "inAlbum">already in album</string>
+    <string name= "notinAlbum">not in album</string>
+     <string name="incluida">Photo in Album. You cannot delete</string>
+    <string name= "hint_fecha">date</string>
+    <string name= "aborrar">delete</string>
+    <string name= "enviar">This is my pet pics album</string>
+    <string name= "compartir">Share via...</string>
+    <string name="errcargaimg">error loading image </string>
+    
+    
+    
+    
+    
+    
+   
+
+</resources>
